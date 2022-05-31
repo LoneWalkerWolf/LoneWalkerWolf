@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a student in the UK, studying Computer Science, Physics, Design Technicology, Mathematics and Technical Theatre. 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y5D0CY8)
+
 <!--
 **LoneWalkerWolf/LoneWalkerWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
