@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-Alexander Hoppe is a student in the United Kingdom, studying Computer Science and Technical Drama in England.
-I specialise in PCB design and theatrical-use products. I am always working on new projects and I am always open to suggestions of what to build. 
+Alexander Hoppe is a student in the United Kingdom, studying Production and Technical Arts: Stage and Screen at LAMDA in London.
+I specialise in PCB design and theatrical products. I am always working on new projects and I am always open to suggestions of what to build. 
 
 ### Support me:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y5D0CY8)
-
-[![I sell on Tindie](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/stores/lonewalker/?ref=offsite_badges&utm_source=sellers_LoneWalker&utm_medium=badges&utm_campaign=badge_small)
 
 <!--
 **LoneWalkerWolf/LoneWalkerWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
