@@ -1,22 +1,14 @@
-### Hi there 👋
+### Hi, I'm Alexander 👋
 
-Alexander Hoppe is a student in the United Kingdom, studying Production and Technical Arts: Stage and Screen at LAMDA in London.
-I specialise in PCB design and theatrical products. I am always working on new projects and I am always open to suggestions of what to build. 
+I run [expanseElectronics](https://expanseelectronics.com), a small UK company making compact theatre and lighting-network hardware, and I design the PCBs and firmware myself.
+
+- **[dualETH, masterETH, quadETH](https://expanseelectronics.com/store/)**: Art-Net and sACN to DMX nodes, and a controller to manage a whole rig of them
+- **[masterMIDI](https://expanseelectronics.com/store/mastermidi/)**: a timecode box (LTC in; MTC, MIDI and Art-Net timecode out)
+- **cueSystem**: a networked cue light system for theatres and schools
+- **[expanseWorkshop](https://expanseelectronics.com/workshop/)**: a free Mac app for Art-Net, sACN and RDM
+- **[artnetnodes](https://github.com/expanseElectronics/artnetnodes)**: our open-source soloWiFi node firmware
+
+I'm always happy to hear what theatre technicians wish existed. Tell me what to build next.
 
 ### Support me:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y5D0CY8)
-
-<!--
-**LoneWalkerWolf/LoneWalkerWolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
